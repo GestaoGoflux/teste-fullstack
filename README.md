@@ -27,7 +27,7 @@ Os dados recebidos devem ser armazenados num banco de dados criado pelo candidat
 Também deve ser criado uma(s) página(s) para que seja possível visualizar os dados cadastrados.
 
 ## Prazo
-O prazo de entrega é de 7 dias corridos, contados a partir do recebimento deste teste.
+O prazo de entrega é de 4 dias corridos, contados a partir do recebimento deste teste.
 
 
 ## Exemplos de Requisições
